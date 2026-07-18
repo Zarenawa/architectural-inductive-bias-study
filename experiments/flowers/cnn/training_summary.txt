@@ -1,0 +1,10 @@
+=== Training Summary (Phase 1) ===
+Model: CNN
+Dataset: flowers
+Batch size: 64
+Epochs: 40
+Final Train Acc: 0.7108
+Final Val Acc: 0.6942
+Final Train Loss: 0.9637
+Final Val Loss: 0.9875
+Phase 1 training time: 24 min 41 sec

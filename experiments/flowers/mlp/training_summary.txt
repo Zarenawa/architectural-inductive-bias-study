@@ -1,0 +1,10 @@
+=== Training Summary (Phase 1) ===
+Model: MLP
+Dataset: flowers
+Batch size: 64
+Epochs: 40
+Final Train Acc: 0.6806
+Final Val Acc: 0.5146
+Final Train Loss: 1.0204
+Final Val Loss: 1.3049
+Phase 1 training time: 18 min 49 sec

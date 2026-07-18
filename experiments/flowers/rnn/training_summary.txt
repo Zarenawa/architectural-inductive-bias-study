@@ -1,0 +1,10 @@
+=== Training Summary (Phase 1) ===
+Model: RNN
+Dataset: flowers
+Batch size: 64
+Epochs: 40
+Final Train Acc: 0.6957
+Final Val Acc: 0.5073
+Final Train Loss: 0.9932
+Final Val Loss: 1.3791
+Phase 1 training time: 8 min 36 sec

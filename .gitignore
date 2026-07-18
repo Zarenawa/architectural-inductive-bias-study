@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset (not uploaded)
+datasets/flowers/
+
+# Trained models/checkpoints
+experiments/flowers/**/checkpoints/
+
+# Logs and temporary files
+*.log
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
